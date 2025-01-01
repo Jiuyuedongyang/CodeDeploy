@@ -8,5 +8,3 @@ yum update -y
               
 #amazon linux2用如下命令
 yum install nginx -y
-
-cp -f /index.html /usr/share/nginx/html/index.html
