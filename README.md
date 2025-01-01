@@ -14,3 +14,4 @@ sudo ./install auto
 sudo yum install -y python-pip
 sudo pip install awscli
 # CodeDeploy
+# CodeDeploy
