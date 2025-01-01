@@ -7,4 +7,4 @@ yum update -y
 #yum install -y nginx
               
 #amazon linux2用如下命令
-amazon-linux-extras install nginx -y
+yum install nginx -y
