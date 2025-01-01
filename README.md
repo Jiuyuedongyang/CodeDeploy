@@ -1,9 +1,4 @@
-# Ram Hemareddy AWS CICD Pipeline Code Deployment to AWS EC2 Instance
-
-
-<b>User Data for Dependencies installations for AMAZON Linux 2:-</b>
-
-#User Data写入如下脚本
+# EC2 User Data写入如下脚本
 #!/bin/bash
 sudo yum -y update
 sudo yum -y install ruby
